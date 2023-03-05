@@ -22,6 +22,8 @@
     $idade = 43;
     $peso = 118.5;
     $casado = false;
+
+    echo $casado;
     ?>
 </body>
 </html>
