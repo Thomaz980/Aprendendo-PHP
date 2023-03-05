@@ -24,6 +24,7 @@
     $casado = false;
 
     echo $casado;
+    include("ex_03");
     ?>
 </body>
 </html>
